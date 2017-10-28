@@ -5,7 +5,7 @@
 							<i class="fa fa-copyright"></i> 2016-2017 <?php bloginfo('name'); ?>
 						</div>
 						<div class="footer-right">
-							by <?php bloginfo('name'); ?> <i class="fa fa-heart animated infinite pulse"></i>
+							by <?php bloginfo('name'); ?> from Yilla<i class="fa fa-heart animated infinite pulse"></i>
 						</div>
 					</div>
 					<div class="visit">
@@ -44,21 +44,6 @@
 			var str = "url(<?php bloginfo('template_url'); ?>/background/bg-x.jpg)"
 			var backgroundimg = str.replace(/x/gi, Math.ceil(Math.random()* (backgroundnum - 1)));
 			$("body").css({ "background": backgroundimg,"background-attachment": "fixed", "background-size": "cover"});
-			//获取所有的标签，并且改变左边栏的标签的颜色
-//			$.ajax({
-//				type:'POST',
-//				url:'/tag/queryAll',
-//				data:{},
-//				dataType:'json',
-//				success:function(result){
-//					var _html="";
-//					for(var i in result){
-//						_html+="<li class=\"tag-list-item\"><a class=\"tag-list-link color"+Math.floor(Math.random()*7)+"\" href=\"/tag/show/"+result[i].tagUrl+"\" title=\"此标签"+result[i].tagNums+"篇文章\">"+result[i].tagName+"</a></li>";
-//					}
-//					$('#js-tagcloud .tag-list').empty();
-//					$('#js-tagcloud .tag-list').append(_html);
-//				}
-//			})
 	})
 	
         var oOpenInNew = {
