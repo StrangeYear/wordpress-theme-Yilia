@@ -8,8 +8,8 @@
 		<div id="SOHUCS" sid="wp-<?php the_ID(); ?> "></div>
 		<script type="text/javascript">
 			(function() {
-				var appid = "cyt4gDy5l";
-				var conf = "prod_606fce3f0d4e358f53998e3906d52686";
+				var appid = "";//替换成你自己的
+				var conf = "";//替换成你自己的
 				var width = window.innerWidth
 						|| document.documentElement.clientWidth;
 				if (width < 960) {
