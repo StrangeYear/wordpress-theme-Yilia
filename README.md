@@ -14,3 +14,6 @@
     5.由于目前评论还未支持原生wordpress评论，所以需要编辑comments.php，把里面的畅言的秘钥替换成自己的。  
     6.背景图片的随机切换，需要自己替换掉images文件夹下的，bg-1到bg-5五张图片。  
     7.以上操作完成之后，即可享受  
+ 
+<img src="https://github.com/monian1916/wordpress-theme-Yilla/blob/master/screenshot.png?raw=true"/> 
+ 
