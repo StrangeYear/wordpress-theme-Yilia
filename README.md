@@ -1,4 +1,4 @@
-# 空闲时间基于Hexo的Yilla主题修改的wordpress主题
+# 空闲时间基于Hexo的Yilia主题修改的wordpress主题
 预览地址：https://blog.monian.me
 ### 如有问题或者需求，请在issues里说明，或者去我的博客留言。
 ## 目前大部分功能都已经完善，缺失部分如下：
@@ -15,5 +15,5 @@
     6.背景图片的随机切换，需要自己替换掉images文件夹下的，bg-1到bg-5五张图片。  
     7.以上操作完成之后，即可享受  
  
-<img src="https://github.com/monian1916/wordpress-theme-Yilla/blob/master/screenshot.png?raw=true"/> 
+<img src="https://github.com/monian1916/wordpress-theme-Yilia/blob/master/screenshot.png?raw=true"/> 
  
