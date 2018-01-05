@@ -1,5 +1,4 @@
 # 空闲时间基于Hexo的Yilia主题修改的wordpress主题
-预览地址：https://blog.monian.me
 ### 如有问题或者需求，请在issues里说明，或者去我的博客留言。
 ## 目前大部分功能都已经完善，缺失部分如下：
 ### 原生wordpress评论暂未支持，目前使用的是畅言，待完善。
